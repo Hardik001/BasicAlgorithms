@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542126390 source:c:\users\hardik\desktop\daalab\sample\main.cpp
+	<iostream>
+	<stdio.h>
+
