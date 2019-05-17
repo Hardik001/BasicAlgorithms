@@ -1,2 +1,2 @@
-#### Basic Algorithm implementation 
+#### Basic Algorithms implementation 
  Using c and c++ 
